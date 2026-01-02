@@ -1,6 +1,6 @@
-package Java.HuaRongDao;
+package HuaRongDao;
 
-import Java.HuaRongDao.View.GameFrame;
+import HuaRongDao.View.GameFrame;
 
 public class Game {
     public static void main(String[] args) {

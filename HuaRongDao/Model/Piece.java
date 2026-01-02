@@ -1,4 +1,4 @@
-package Java.HuaRongDao.Model;
+package HuaRongDao.Model;
 //棋子
 public class Piece {
     private int id;

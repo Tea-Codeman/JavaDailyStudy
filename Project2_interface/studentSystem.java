@@ -1,4 +1,4 @@
-package Java.Project2_interface;
+package Project2_interface;
 
 public interface studentSystem {
     void printStudentInfo(Student[] students);

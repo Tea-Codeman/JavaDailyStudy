@@ -1,6 +1,6 @@
-package Java.HuaRongDao.Controller;
+package HuaRongDao.Controller;
 
-import Java.HuaRongDao.Model.Direction;
+import HuaRongDao.Model.Direction;
 
 public class GameController {
     public GameController(Direction direction){

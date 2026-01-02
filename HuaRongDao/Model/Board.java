@@ -1,4 +1,4 @@
-package Java.HuaRongDao.Model;
+package HuaRongDao.Model;
 //棋盘
 public class Board {
     public static final int ROWS = 5;

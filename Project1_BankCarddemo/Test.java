@@ -1,4 +1,4 @@
-package Java.Project1_BankCarddemo;
+package Project1_BankCarddemo;
 
 import java.util.Scanner;
 

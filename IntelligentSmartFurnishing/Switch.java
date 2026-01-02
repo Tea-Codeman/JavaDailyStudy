@@ -1,4 +1,4 @@
-package Java.IntelligentSmartFurnishing;
+package IntelligentSmartFurnishing;
 
 public interface Switch {
     void press();

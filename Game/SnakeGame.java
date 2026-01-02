@@ -1,4 +1,4 @@
-package Java.Game;
+package Game;
 import javax.swing.JFrame;
 public class SnakeGame extends JFrame {
     

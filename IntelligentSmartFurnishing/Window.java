@@ -1,4 +1,4 @@
-package Java.IntelligentSmartFurnishing;
+package IntelligentSmartFurnishing;
 
 public class Window extends JD {
     public Window (String name, boolean status){

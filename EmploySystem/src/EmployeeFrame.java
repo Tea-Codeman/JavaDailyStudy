@@ -1,4 +1,4 @@
-package Java.EmploySystem.src;
+package EmploySystem.src;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

@@ -1,4 +1,4 @@
-package Java.IntelligentSmartFurnishing;
+package IntelligentSmartFurnishing;
 
 public class JD implements Switch{
     private String name = null;

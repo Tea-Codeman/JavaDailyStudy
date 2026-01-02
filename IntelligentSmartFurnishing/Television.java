@@ -1,4 +1,4 @@
-package Java.IntelligentSmartFurnishing;
+package IntelligentSmartFurnishing;
 
 public class Television extends JD {
     public Television (String name, boolean status){

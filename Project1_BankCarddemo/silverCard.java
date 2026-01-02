@@ -1,4 +1,4 @@
-package Java.Project1_BankCarddemo;
+package Project1_BankCarddemo;
 
 public class silverCard  extends Card{
     //享受9折优惠

@@ -1,4 +1,4 @@
-package Java.IntelligentSmartFurnishing;
+package IntelligentSmartFurnishing;
 
 public class WashMachine extends JD {
     public WashMachine(String name, boolean status){

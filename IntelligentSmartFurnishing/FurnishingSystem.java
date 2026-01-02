@@ -1,4 +1,4 @@
-package Java.IntelligentSmartFurnishing;
+package IntelligentSmartFurnishing;
 
 public class FurnishingSystem {
     private static FurnishingSystem system = new FurnishingSystem();

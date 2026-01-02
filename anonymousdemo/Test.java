@@ -1,4 +1,4 @@
-package Java.anonymousdemo;
+package anonymousdemo;
 
 public class Test {
     

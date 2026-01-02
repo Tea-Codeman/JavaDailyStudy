@@ -1,4 +1,4 @@
-package Java.Project1_BankCarddemo;
+package Project1_BankCarddemo;
 
 public class goldCard extends Card{
     //享受8折优惠，消费满200元提供打印免费洗车票的服务

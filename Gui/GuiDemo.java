@@ -1,4 +1,4 @@
-package Java.Gui;
+package Gui;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 public class GuiDemo {

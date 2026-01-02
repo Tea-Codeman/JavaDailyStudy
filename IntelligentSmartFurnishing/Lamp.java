@@ -1,4 +1,4 @@
-package Java.IntelligentSmartFurnishing;
+package IntelligentSmartFurnishing;
 
 public class Lamp extends JD {
     public Lamp (String name, boolean status){

@@ -1,10 +1,10 @@
-package Java.HuaRongDao.View;
+package HuaRongDao.View;
 
 import javax.swing.JFrame;
 import javax.swing.JTable;
 
-import Java.HuaRongDao.Model.Board;
-import Java.HuaRongDao.Model.Piece;
+import HuaRongDao.Model.Board;
+import HuaRongDao.Model.Piece;
 
 public class GameFrame extends JFrame{
     private JTable table;

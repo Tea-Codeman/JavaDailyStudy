@@ -1,4 +1,4 @@
-package Java.EmploySystem.src;
+package EmploySystem.src;
 
 public class User {
     private String username;
